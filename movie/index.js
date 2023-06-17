@@ -32,6 +32,8 @@ const fetchData = async (rootElement, fetchType, page, paginationElement)=>{
         
         `
 
+        // this is another change for git
+
         const bookmark = document.createElement("button")
         bookmark.innerHTML='Add bookmark'
 
